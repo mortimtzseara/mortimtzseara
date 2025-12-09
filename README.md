@@ -11,4 +11,8 @@ And slowly, step by step, I’m weaving the stories I’ve always carried within
 ## Tools & Interests
 - 🎮 Unity • GameMaker 
 - 🎨 Blender • Photoshop  
-- 💻 C# • JavaScript  
+- 💻 C# • JavaScript
+
+## My stats
+
+  [![Morti's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortimtzseara)](https://github.com/mortimtzseara/github-readme-stats)
