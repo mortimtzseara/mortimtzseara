@@ -4,7 +4,7 @@
 
 I've always been passionate about art in all its forms, so choosing just one area of expertise has never been easy. I started in theatre and somehow ended up as a programmer… life has many twists and turns, you see 😄
 I'm really excited to keep learning new tools that help me bring my ideas to life. I'm currently studying app development, and my goal is to one day create my own games.
-And slowly, step by step, I’m weaving the stories I’ve always carried within me.
+And slowly, step by step, I’m weaving the stories I’ve always carried within me ✨
 
 ---
 
